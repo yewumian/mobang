@@ -1,0 +1,14 @@
+{
+  "apps": [{
+    "name": "mobang",
+    "script": "index.js",
+    "instances": "1",
+    "log_date_format": "YYYY-MM-DD HH:mm Z",
+    "ignoreWatch": ["[\\/\\\\]\\./", "node_modules"],
+    "watch": "false",
+    "error_file": "/data/static_html/logs/err_mobang.log",
+    "out_file": "/data/static_html/logs/out_mobang.log",
+    "exec_mode": "cluster_mode",
+    "cwd": "/data/nodejs/ins-mobang-web/"
+  }]
+}
