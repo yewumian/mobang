@@ -8,7 +8,7 @@ config.server = {
 
 // 站点信息
 config.site = {
-  'sitename': 'Mobang v1.0'
+  'sitename': 'Mobang v2.0'
 };
 
 module.exports = config;

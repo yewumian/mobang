@@ -1,6 +1,6 @@
 {
   "name": "mobang",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "mobang web server and local tools, best png compress tool.",
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
     "nodetpl": "latest",
     "mime": "~1.3.4",
     "minimist": "~1.1.1",
-    "extend": "~2.0.1"
+    "extend": "~2.0.1",
+    "fsk-readdir": "~1.1.4"
   },
   "main": "./index.js",
   "bin": {
