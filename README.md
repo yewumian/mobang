@@ -1,4 +1,4 @@
-Mobang
+魔棒
 ========
 [![Build Status](https://secure.travis-ci.org/pillys/mobang.png)](http://travis-ci.org/pillys/mobang)
 
@@ -9,6 +9,8 @@ Mobang
 * 支持启动本地server，默认开启 3003 端口
 
 * 支持使用命令直接压缩本地文件
+
+* 支持 png、jpg 格式的图片
 
 ## 安装
     
